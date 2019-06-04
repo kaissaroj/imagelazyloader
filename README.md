@@ -1,4 +1,4 @@
-# imagelazyloader
+# Imagelazyloader
 ImageLazyLoading is a fast,simple, lightweight script which loads your content images only as they enter the viewport. 
 It is written in plain vanilla JavaScript. 
 
