@@ -9,3 +9,5 @@ It is written in plain vanilla JavaScript.
 <img alt="A lazy image" src="lazy-lowquality.jpg" data-src="lazy.jpg">
 ```
 
+<a href="https://kaissaroj.github.io/imagelazyloader/example/" target="_blank">Check Demo</a> 
+
